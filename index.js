@@ -8,3 +8,5 @@ elt.appendChild(newElt);
 
 const newElt2 = document.createElement("div");
 elt.appendChild(newElt2);
+
+console.log = text("c'est cliqué");
